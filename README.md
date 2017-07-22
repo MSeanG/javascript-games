@@ -1,2 +1,2 @@
 # javascript-games
-Games built with jQuery ECMAscript
+Games built with ECMAscript jQuery
